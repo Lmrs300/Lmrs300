@@ -14,7 +14,7 @@
 
 <br>
 
-<h2>📊​ Estadisticas de Github</h2>
+<h2>📊​ Estadísticas de Github</h2>
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -44,7 +44,7 @@
 
 <br>
 
-<h2>🤝 Contactame</h2>
+<h2>🤝 Contáctame</h2>
 
 <p align=center>
 
