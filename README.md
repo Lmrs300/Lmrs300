@@ -32,13 +32,17 @@
 </tr>
 </table>
 
+<br>
+
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Hablidades</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,html,css,js,jquery,php,mysql,sqlite,firebase,py,nodejs,express,react,angular,npm,pnpm,tailwind,windows,linux,kali,vscode,notion&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,jquery,php,mysql,sqlite,firebase,c,cpp,py,nodejs,express,react,angular,npm,pnpm,tailwind,windows,linux,kali,vscode,notion&perline=7" />
   </a>
 </p>
+
+<br>
 
 <h2>🤝 Contactame</h2>
 
