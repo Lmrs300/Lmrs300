@@ -14,6 +14,16 @@
 
 <br>
 
+<h2>💻 Tecnologías</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,jquery,php,mysql,sqlite,firebase,c,cpp,py,nodejs,express,react,angular,npm,pnpm,tailwind,windows,linux,kali,vscode,notion&perline=9" />
+  </a>
+</p>
+
+<br>
+
 <h2>📊​ Estadísticas de GitHub</h2>
 <table align="center">
 <tr border="none">
@@ -31,16 +41,6 @@
   </td>
 </tr>
 </table>
-
-<br>
-
-<h2>💻 Tecnologías</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,jquery,php,mysql,sqlite,firebase,c,cpp,py,nodejs,express,react,angular,npm,pnpm,tailwind,windows,linux,kali,vscode,notion&perline=9" />
-  </a>
-</p>
 
 <br>
 
