@@ -8,7 +8,8 @@
 
 <ul>
   <li>💻​ Desarrollador FullStack</li><br>
-  <li>📖​ Estudiante de Ingeniería en informática</li><br>
+  <li>💡​📖​ Estudiante de Ingeniería en informática</li><br>
+  <li>💡​Mas de 3 años de experiencia desarrollando proyectos</li><br>
   <li>🌱 Estoy Constantemente aprendiendo nuevas tecnologías y reforzando conocimientos</li>
 </ul>
 
