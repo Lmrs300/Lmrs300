@@ -9,7 +9,7 @@
 <ul>
   <li>💻​ Desarrollador FullStack</li><br>
   <li>​📖​ Ingeniero en informática</li><br>
-  <li>💡​Mas de 3 años de experiencia desarrollando proyectos</li><br>
+  <li>💡​Más de 3 años de experiencia desarrollando proyectos</li><br>
   <li>🌱 Estoy constantemente aprendiendo nuevas tecnologías y reforzando conocimientos</li>
 </ul>
 
