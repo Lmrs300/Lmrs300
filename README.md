@@ -45,7 +45,7 @@
 
 <br>
 
-  <a align="center" href="https://www.linkedin.com/in/luis-manuel-romero-savasta-6927222a9" target="_blank">
+  <a align="center" href="https://portfolio-luis-romero.netlify.app" target="_blank">
     Visita mi portfolio para ver más, ¡Haz click aquí!
   </a>
 </p>
