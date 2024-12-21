@@ -42,5 +42,10 @@
   <a href="mailto:luismrs30@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail:  luismrs30@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
   </a>
-  
+
+<br>
+
+  <a align="center" href="https://www.linkedin.com/in/luis-manuel-romero-savasta-6927222a9" target="_blank">
+    Visita mi portfolio para ver más, ¡Haz click aquí!
+  </a>
 </p>
